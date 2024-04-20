@@ -3,8 +3,7 @@
 ### Daily Work: 
 
 - Initial html template created.
-- Initialized react app in project.
-- Registered Domain from namecheap: vishalkumar.us
+- Initialized react app in project
 - Setup AWS services: API Gateway, Lambda, DynamoDB, CloudFront, Certificate Manager, Route53, S3, SQS, SNS.
 - Revamped from html to react.
 - Consumed ContactForm API Gateway endpoint on Contact Form submission in React.
